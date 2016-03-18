@@ -1,0 +1,6 @@
+Using phantomCSS we are able to capture screenshots off of prod and compare them against our local development instance.
+The list of URL's is based off a Google Sheet containing URL's that are good representations of our content.
+
+Clone the phantomCSS repo and ensure it is added to your paths
+
+from git bash, goto folder and run cmd "/C it.cmd"
